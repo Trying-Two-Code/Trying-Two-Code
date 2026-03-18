@@ -1,15 +1,15 @@
 
-<p align="center"><img alt="Trying to Code" src="/trying-to-code.png"></img></p>
+<p align="center"><img alt="Trying to Code" src="/trying-to-code.png" width="320"></img></p>
 
 ***
 
 <h3 align="center">I'm a:</h3>
 
-> - coder
+<a href="tryingtocode.com/learn"><p align="center"><img alt="coder" src="/ttc-interests-1.png" width="160"></img></p></a>
 
-> - sound designer
+<a href=""><p align="center"><img alt="sound designer" src="/ttc-interests-2.png" width="160"></img></p></a>
 
-> - [video producer](https://www.youtube.com/@TryingCode)
+<a href="https://www.youtube.com/@TryingCode"><p align="center"><img alt="video producer" src="/ttc-interests-3.png" width="160"></img></p></a>
 
 
 ***

@@ -5,11 +5,11 @@
 
 <h3 align="center">I'm a:</h3>
 
-<a href="tryingtocode.com/learn"><p align="center"><img alt="coder" src="/ttc-interests-1.png" width="160"></img></p></a>
+<p align="center"><a href="tryingtocode.com/learn"><img alt="coder" src="/ttc-interests-1.png" width="160"></img></a></p>
 
-<a href=""><p align="center"><img alt="sound designer" src="/ttc-interests-2.png" width="160"></img></p></a>
+<p align="center"><a href=""><img alt="sound designer" src="/ttc-interests-2.png" width="160"></img></a></p>
 
-<a href="https://www.youtube.com/@TryingCode"><p align="center"><img alt="video producer" src="/ttc-interests-3.png" width="160"></img></p></a>
+<p align="center"><a href="https://www.youtube.com/@TryingCode"><img alt="video producer" src="/ttc-interests-3.png" width="160"></img></a></p>
 
 
 ***

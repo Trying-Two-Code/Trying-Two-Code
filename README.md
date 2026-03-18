@@ -1,5 +1,5 @@
 
-# I'm ![tryingtocode](/trying-to-code.png)
+# I'm trying to code
 
 I'm a:  
 > - coder

@@ -1,1 +1,10 @@
-Trying to code is a youtuber and progarammer. 
+
+# I'm **Trying to Code**.
+
+I'm a:  
+> - coder
+
+> - sound designer
+
+> - video producer
+

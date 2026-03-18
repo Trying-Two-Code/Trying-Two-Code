@@ -1,14 +1,16 @@
 
-![Trying to Code](/trying-to-code.png)
+<p align="center"><img alt="Trying to Code" src="/trying-to-code.png"></img></p>
 
 ***
 
-I'm a:  
+<h3 align="center">I'm a:</h3>
+
 > - coder
 
 > - sound designer
 
 > - [video producer](https://www.youtube.com/@TryingCode)
+
 
 ***
 

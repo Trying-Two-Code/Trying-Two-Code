@@ -14,7 +14,7 @@
 
 ***
 
-[Contact Me](mailto:contact@tryingtocode.com)
+<a href="mailto:contact@tryingtocode.com"><img alt="Contact Me" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Email_icon.png?_=20210331204933" width="50"></a> <a href="https://bsky.app/profile/tryingtocode.bsky.social"><img alt="Bluesky" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/960px-Bluesky_Logo.svg.png?_=20240211144739" width="50"></a> <a href="https://discord.gg/YeeAwFYKQ4"><img alt="discord" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/discord.png" width="50"></a>
 
 ***
 

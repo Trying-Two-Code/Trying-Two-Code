@@ -1,4 +1,4 @@
-<a href="http://tryingtocode.com/extra/me/about.html"><img alt="Trying to Code" src="/anti-ai.png" width="320"></img></a>
+<a href="http://tryingtocode.com/extra/me/about.html"><img alt="Trying to Code" src="/anti-ai.png" width="16"></img></a>
 
 <p align="center"><a href="http://tryingtocode.com/extra/me/about.html"><img alt="Trying to Code" src="/trying-to-code.png" width="320"></a></img></p>
 

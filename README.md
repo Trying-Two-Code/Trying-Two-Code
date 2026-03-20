@@ -1,5 +1,5 @@
 
-<p align="center"><img alt="Trying to Code" src="/trying-to-code.png" width="320"></img></p>
+<p align="center"><a href="http://tryingtocode.com/extra/me/about.html"><img alt="Trying to Code" src="/trying-to-code.png" width="320"></a></img></p>
 
 ***
 

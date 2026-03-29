@@ -6,7 +6,7 @@
 
 <h3 align="center">I'm a:</h3>
 
-<p align="center"><a href="tryingtocode.com/learn"><img alt="coder" src="/ttc-interests-1.png" width="160"></img></a></p>
+<p align="center"><a href="/life-of-code.md"><img alt="coder" src="/ttc-interests-1.png" width="160"></img></a></p>
 
 <p align="center"><a href=""><img alt="sound designer" src="/ttc-interests-2.png" width="160"></img></a></p>
 

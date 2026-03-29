@@ -25,4 +25,4 @@ Skills:
 
 ***
 
-[[![TTC GitHub stats](https://github-readme-stats.vercel.app/api?username=trying-two-code)](https://github.com/trying-two-code/github-readme-stats)](https://ghstats.dev/api/card?username=Trying-Two-Code)
+<p align="center"><img src="https://ghstats.dev/api/card?username=Trying-Two-Code" alt="TTC GitHub stats"></p>

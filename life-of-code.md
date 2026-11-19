@@ -22,3 +22,7 @@ I made a game called shadow walker, and it is on steam. It was a project I spent
 ## website - 2026
 
 Now I'm making a website ([tryingtocode.com](https://tryingtocode.com)). I think that my code now is better than it has been in the past, but I still have a lot of things to learn.
+
+## windows application
+
+I'm also working on AutoSorter, a wpf based application made to automatically sort the files on your computer. Is is under development.

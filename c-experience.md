@@ -11,3 +11,17 @@
 It is the language that I used to learn the very fundamentals of programming.
 
 Knowing this language allows me to learn languages in the c family faster.
+
+## Examples
+
+### Unity Engine
+
+Unity was my first exposure to the c# programming language.
+
+I created and published [shadow walker](https://store.steampowered.com/app/2874970/Shadow_Walker/).
+
+I also developed untitled space game (to be released).
+
+### WPF
+
+I created AutoSorter (to be released)
